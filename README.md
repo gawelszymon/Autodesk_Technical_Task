@@ -1,4 +1,4 @@
-# Technical Task
+# Technical Details
 
 Conversion and operations on units.
 
